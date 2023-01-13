@@ -15,8 +15,12 @@ Sample markdown image
 `System.out.println("Eva Air B747-400");`
 
 ![Image](https://forums.x-plane.org/screenshots/monthly_2020_03/022.jpg.261b509f59b384c25ccc6521f9d3c0e5.jpg)
+![Image](https://github.com/RyanC1681/cse15l-lab-reports/blob/main/assets/images/VSChomepage2.jpg)
 
+![This is an images](/../main/assets/images/VSChomepage2.jpg)
+![This is an image](/assets/images/VSC home page .jpg)
+![This is an imagesss](/assets/images/VSChomepage.jpg)
+![This is an image](/../main/images/VSC home page .jpg)
+![This is an image](/assets/images/VSChomepage2.jpg)
 
-<img src=http://clipartmag.com/images/free-smiley-face-clipart-15.jpg alt="Smiley face"  width="42" height="42" style="vertical-align:middle">
-
-<img src=https://forums.x-plane.org/screenshots/monthly_2020_03/022.jpg.261b509f59b384c25ccc6521f9d3c0e5.jpg   width="100" height="100" style="vertical-align:middle">
+![VSChomepage2](https://user-images.githubusercontent.com/40802485/212302441-92e1a9d7-266a-4a74-9c73-a637b9a1296e.jpg)
