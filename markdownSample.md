@@ -45,5 +45,4 @@ replace to your file name
 
 
 
-![VSC home page ](https://user-images.githubusercontent.com/40802485/212560952-049bb5af-c01d-42e6-bab3-5c8c7bf7f75e.jpg)
 
