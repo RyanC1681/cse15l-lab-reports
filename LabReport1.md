@@ -51,7 +51,12 @@ Running Commands
 ------------------------------
 Typical commands of `cd`, `ls` can be used to navigate through the server's files, and commands such as `mkdir` or `cp` can create, modify, or copy files. The directory of all the course account usernames for the CSE15L course can be found by navigating using the command `cd /home/linux/ieng6/cs15lwi23/`
 
-![Image](https://github.com/RyanC1681/cse15l-lab-reports/blob/main/SSHcommands.jpg)
+![Image](https://ryanc1681.github.io/cse15l-lab-reports/blob/main/SSHcommands.jpg)
+
+Visit CSE 15L Lab Report 1[Lab Report 1 website page](https://ryanc1681.github.io/cse15l-lab-reports/LabReport1.html)
+
+
+
 
 
 
