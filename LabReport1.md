@@ -11,7 +11,7 @@ Visit the link to the VS code main website:
 Follow instructions to download VS code for your respective platform and OS system.
 
 ![Image](https://github.com/RyanC1681/cse15l-lab-reports/blob/main/VSChomepage2.jpg)
-
+<img src="VSChomepage2.jpg" alt="Girl in a jacket" width="500" height="600">
 Course specific account
 ---------------------------------
 
