@@ -1,4 +1,4 @@
-[Visit CSE 15L Lab Report 1 website page](https://ryanc1681.github.io/cse15l-lab-reports/LabReport1.html)
+
 
 Lab Report 1: Remote Access Tutorial
 =====================================
@@ -60,6 +60,8 @@ Typical commands of `cd`, `ls` can be used to navigate through the server's file
 ![SSHcommands](https://user-images.githubusercontent.com/40802485/212567102-6adb5b65-bf68-4df7-be7d-e21e11df519f.jpg)
 
 
+
+[Visit CSE 15L Lab Report 1 website page](https://ryanc1681.github.io/cse15l-lab-reports/LabReport1.html)
 
 
 
