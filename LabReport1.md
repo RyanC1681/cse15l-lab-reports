@@ -29,20 +29,15 @@ Reset the password by clicking on a pop-up banner or the link underneath the use
 Use your current tritonlink account password as your current password, and reset the password for the course account:
 ![ETS password change 2](https://user-images.githubusercontent.com/40802485/212567083-17933078-78c0-46f6-bd1f-17434077f766.jpg)
 
-
-
 Remote Access
 ==============
 
 Install SSH
 ---------------------------
-
 On Windows platforms, open the Settings application. Navigate to Apps, and then to Optional Features. Find View Features, and search for the OpenSSH Client. Install the client
 After installation, make sure to check that the OpenSSH Client is in the installed features.
 
 ![OpenSSHinstallation](https://user-images.githubusercontent.com/40802485/212567094-ad6cabd7-b6fd-4391-a5a2-00c55f6ea745.jpg)
-
-
 
 Establishing SSH Connection
 ------------------------------
@@ -52,13 +47,11 @@ type the command `ssh cs15lwi23---@ieng6.ucsd.edu` filling the placeholder charc
 
 ![AccessSSHserver](https://user-images.githubusercontent.com/40802485/212567100-25df7d62-1b1e-4de3-a441-1bb3c9e44684.jpg)
 
-
 Running Commands
 ------------------------------
 Typical commands of `cd`, `ls` can be used to navigate through the server's files, and commands such as `mkdir` or `cp` can create, modify, or copy files. The directory of all the course account usernames for the CSE15L course can be found by navigating using the command `cd /home/linux/ieng6/cs15lwi23/`
 
 ![SSHcommands](https://user-images.githubusercontent.com/40802485/212567102-6adb5b65-bf68-4df7-be7d-e21e11df519f.jpg)
-
 
 
 [Visit CSE 15L Lab Report 1 website page](https://ryanc1681.github.io/cse15l-lab-reports/LabReport1.html)
