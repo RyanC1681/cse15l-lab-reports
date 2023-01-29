@@ -39,6 +39,16 @@ After installation, make sure to check that the OpenSSH Client is in the install
 
 ![OpenSSHinstallation](https://user-images.githubusercontent.com/40802485/212567094-ad6cabd7-b6fd-4391-a5a2-00c55f6ea745.jpg)
 
+Install Git **(Windows Only)**
+---------------------------------
+
+For Windows platforms, install Git through the website:
+
+[Git website page](https://gitforwindows.org/)
+
+After following  instructions to download Git, open a new terminal in VS code or on the home computer. Type the command `git bash`. This allows Windows to interpret commands from Linux or Unix environments such as `cd` or `ls`.
+
+
 Establishing SSH Connection
 ------------------------------
 
@@ -49,7 +59,11 @@ type the command `ssh cs15lwi23---@ieng6.ucsd.edu` filling the placeholder charc
 
 Running Commands
 ------------------------------
-Typical commands of `cd`, `ls` can be used to navigate through the server's files, and commands such as `mkdir` or `cp` can create, modify, or copy files. The directory of all the course account usernames for the CSE15L course can be found by navigating using the command `cd /home/linux/ieng6/cs15lwi23/`
+Typical commands of `cd`, `ls` can be used to navigate through the server's files, and commands such as `mkdir` or `cp` can create, modify, or copy files. 
+
+The command `cd/home/linux/ieng6` and then running `ls` shows a list of all of the courses that use the CSE servers. Each course folder contains folders for each of the student course specific accounts for each student that was enrolled in the course. 
+
+The directory of all the course account usernames for the CSE15L course can be found by seeing the course folder "cs15lwi23" in the list from the previous command and navigating using the command `cd /home/linux/ieng6/cs15lwi23/`, then running `ls` again. 
 
 ![SSHcommands](https://user-images.githubusercontent.com/40802485/212567102-6adb5b65-bf68-4df7-be7d-e21e11df519f.jpg)
 
