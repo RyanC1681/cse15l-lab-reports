@@ -7,6 +7,7 @@ VS code Installation
 ----------------------
 
 Visit the link to the VS code main website:
+
 [VS code website page](https://code.visualstudio.com/Download)
 Follow instructions to download VS code for your respective platform and OS system.
 
