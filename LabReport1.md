@@ -7,6 +7,7 @@ VS code Installation
 Visit the link to the VS code main website:
 
 [VS code website page](https://code.visualstudio.com/Download)
+
 Follow instructions to download VS code for your respective platform and OS system.
 
 ![VSC home page ](https://user-images.githubusercontent.com/40802485/212566981-6102ad76-b847-4084-8b91-53660b6de7cf.jpg)
@@ -20,10 +21,8 @@ Visit this link to find the course specific account:
 If you are a new student, use the bottom section to login and find the account. Otherwise, fill in the top section. The search will turn up two account usernames. Click on the one that starts with cs15lwi23—. 
 ![ETSAccountLookupN](https://user-images.githubusercontent.com/40802485/212567023-fce0103b-42c1-47c1-b285-e3f75892d452.jpg)
 
-
 Reset the password by clicking on a pop-up banner or the link underneath the username, as seen below:
 ![ETS password change](https://user-images.githubusercontent.com/40802485/212567070-1f4b054c-3bc5-4664-a6b9-c4eefabdaf67.jpg)
-
 
 Use your current tritonlink account password as your current password, and reset the password for the course account:
 ![ETS password change 2](https://user-images.githubusercontent.com/40802485/212567083-17933078-78c0-46f6-bd1f-17434077f766.jpg)
@@ -46,7 +45,6 @@ For Windows platforms, install Git through the website:
 [Git website page](https://gitforwindows.org/)
 
 After following  instructions to download Git, open a new terminal in VS code or on the home computer. Type the command `git bash`. This allows Windows to interpret commands from Linux or Unix environments such as `cd` or `ls`.
-
 
 Establishing SSH Connection
 ------------------------------
