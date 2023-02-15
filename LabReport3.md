@@ -45,6 +45,8 @@ Tailored search that exludes the returns of "border" and the hypenated match of 
 
 Recursive search
 ------------------
+The `-R` option for the `grep` command searches for all instances of the term in every directory and file. So the command `grep -R "tourist"` searches for all instances of the word "tourist" in all of the files avalible and does not need a `cat` command in front for a specific .txt file.
+
 EX1
 ![grepRecursiveSearchN1](https://user-images.githubusercontent.com/40802485/218429849-c5e63d93-b5f5-429f-99fa-ece41fab74c1.jpg)
 
@@ -52,8 +54,9 @@ EX2
 ![grepRecursiveSearchN2](https://user-images.githubusercontent.com/40802485/218429907-5bddd9ab-513d-49bf-bdc2-30bfcbb8aeb4.jpg)
 
 
-count frquency of term
+Count Frequency of a Term
 --------------------------
+The `-c` option for `grep` returns an integer number of instances the term occurs in a file rather than returning the location of each term.
 EX1
 ![grepCounting](https://user-images.githubusercontent.com/40802485/218430000-f32d1bfc-ef2e-4c16-91bb-5ed400cdd0eb.jpg)
 
