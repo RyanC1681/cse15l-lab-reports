@@ -8,7 +8,7 @@ Using local bash history
 <up> <Enter>
 ```
 Cloning fork of the lab7 Repository
--------------------------
+------------------------------------
 ```
 <Ctrl + R> git cl <Tab> <Enter>
 cd l <Tab><Enter>
@@ -25,7 +25,7 @@ Compiling and running Junit tests:
 <Ctrl + R> <Ctrl + V or Rclick> (paste in “javac”) <backspace> <Tab> <Enter>
 ```
 Fixing Failure-Causing Error
---------------------------
+----------------------------
 ```
 vim L <Tab> <Enter>
 i (insert mode)
@@ -76,3 +76,5 @@ Full command List:
 
 11. git push origin main
 ```
+
+[Website link to Lab 4](https://ryanc1681.github.io/cse15l-lab-reports/LabReport4.html)
