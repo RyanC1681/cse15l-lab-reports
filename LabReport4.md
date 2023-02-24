@@ -64,6 +64,7 @@ Full command List:
 
 6. vim ListExamples.java
   i (vim insertion)
+  change "index1" to "index2" on line 43 in the last while loop
   :wq (vim save and close)
 
 7. javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java  
