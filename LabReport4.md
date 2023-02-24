@@ -48,3 +48,31 @@ Committing and Pushing to Github
 <Ctrl + R> <Ctrl + V or Rclick> (paste in “git”) c <Tab> <Enter>
 <Ctrl + R> <Ctrl + V or Rclick> (paste in “git”) p <Tab> <Enter>
 ```
+
+Full command List:
+---------------------------
+```
+1. ssh cs15lwi23(last three characters of username)@ieng6.ucsd.edu
+
+2. git clone git@github.com:RyanC1681/lab7.git
+
+3. javac *.java
+
+4. javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java 
+
+5. java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples
+
+6. vim ListExamples.java
+  i (vim insertion)
+  :wq (vim save and close)
+
+7. javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java  
+
+8. java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore 
+
+9. git add ListExamples.java 
+
+10. git commit -m "fixed ListExamples bug"
+
+11. git push origin main
+```
