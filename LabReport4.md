@@ -2,20 +2,20 @@ Lab Report 4
 ---------------------
 
 ieng6 Login
---------------------------------------------
+--------------------------
 ```
 Using local bash history
 <up> <Enter>
 ```
 Cloning fork of the lab7 Repository
----------------------------------------
+-------------------------
 ```
 <Ctrl + R> git cl <Tab> <Enter>
 cd l <Tab><Enter>
 ```
 
 Running Tests for Failure
------------------------------------
+-------------------
 ```
 Compiling all files:
 <Ctrl + R> <Ctrl + V or Rclick> (paste in “javac”) * <Tab> <Enter>
