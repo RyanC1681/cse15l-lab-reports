@@ -16,7 +16,7 @@ cd l <Tab><Enter>
 ```
 
 Running Tests for Failure
---------------------------
+------------------------
 
 ```
 Compiling all files:
@@ -28,6 +28,7 @@ Compiling and running Junit tests:
 ```
 Fixing Failure-Causing Error
 ----------------------------
+
 ```
 vim L <Tab> <Enter>
 i (insert mode)
@@ -38,6 +39,7 @@ i (insert mode)
 
 Running Tests Checking for Error Fix
 -----------------------------------
+
 ```
 <up> <up> <Enter>
 <up> <up> <Enter>
