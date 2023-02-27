@@ -71,7 +71,8 @@ Committing and Pushing to Github
 
 ![git add](https://user-images.githubusercontent.com/40802485/221347222-2642a303-10d2-4329-86cf-04df5e69687d.jpg)
 ![git commitPush](https://user-images.githubusercontent.com/40802485/221347227-bceaec64-3fb3-4693-a0be-05a5b7b5d985.jpg)
-![git commitPush](https://user-images.githubusercontent.com/40802485/221681422-d5f75007-0d7d-4b68-bcdd-24e9112ff446.jpg)
+![git push](https://user-images.githubusercontent.com/40802485/221681985-f6354f7e-2428-48d6-8a31-d02104d8b010.jpg)
+
 
 
 Full command List:
