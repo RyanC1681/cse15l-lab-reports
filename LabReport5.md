@@ -3,13 +3,11 @@
 
 Run Commands
 ----------------------
-
 ```
 ssh cs15lwi23(last three characters of username)@ieng6.ucsd.edu
 
 bash runLab7.sh
 ```
-
 ![lab5 1](https://user-images.githubusercontent.com/40802485/224199103-6fab3660-d321-4f16-a1a8-346df04ec46f.jpg)
 
 ![lab5 2](https://user-images.githubusercontent.com/40802485/224200285-26c12e6e-ff11-4845-aff1-dbbecc1b797f.jpg)
